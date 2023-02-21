@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Owczar</h3>
 <hr>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=theowczar&color=blueviolet&style=for-the-badge&label=profile+views" alt="theowczar" />
 <h3 align="center">Passionate programmer</h3>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=theowczar&color=blueviolet&style=for-the-badge&label=profile+views" alt="theowczar" />
 <hr>
 
 ### I can make something for you 🙂
