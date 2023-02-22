@@ -10,18 +10,13 @@
 
 <br>
 <h1 align="center">📞 Contact 📞</h1>
-<div id="contact">
-    <img src="https://i.imgur.com/DbgkdL7.png" width="50">
-    <h3>Owczar#0619</h3> 
-</div>
-<style>
-    #contact {
-        display: flex;
+<div style="display: flex;
         flex-direction: row;
         justify-content: center;
         align-items: center;
         gap: 10px;
-        font-size: 20px;
-    }
-</style>
+        font-size: 20px;">
+    <img src="https://i.imgur.com/DbgkdL7.png" width="50">
+    <h3>Owczar#0619</h3> 
+</div>
 <br>
