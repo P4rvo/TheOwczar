@@ -10,7 +10,6 @@
 
 <br>
 <h1 align="center">📞 Contact 📞</h1>
-<img src="https://i.imgur.com/DbgkdL7.png" width="50">
-<h3>Owczar#0619</h3> 
+  <h3>Discord: <b>Owczar#0619</b></h3> 
 </div>
 <br>
