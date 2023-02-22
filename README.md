@@ -10,6 +10,6 @@
 
 <br>
 <h1 align="center">📞 Contact 📞</h1>
-  <h3>>Discord:</span> <b>Owczar#0619</b></h3> 
+  <h3>Discord:</span> <b>Owczar#0619</b></h3> 
 </div>
 <br>
