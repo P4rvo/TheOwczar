@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Parvo 👋</h1>
 <h3 align="center">Passionate programmer</h3>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=p4rvo&color=blueviolet&style=for-the-badge&label=profile+views" alt="parvo" />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=p4rvo&color=green&style=for-the-badge&label=profile+views" alt="parvo" />
 
 <br>
 <h1 align="center">💻 Technologies I use 💻</h1>
