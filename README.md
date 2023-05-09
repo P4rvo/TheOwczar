@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Owczar 👋</h1>
+<h1 align="center">👋 Hi, I'm Parvo 👋</h1>
 <h3 align="center">Passionate programmer</h3>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=theowczar&color=blueviolet&style=for-the-badge&label=profile+views" alt="theowczar" />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=p4rvo&color=blueviolet&style=for-the-badge&label=profile+views" alt="parvo" />
 
 <br>
 <h1 align="center">💻 Technologies I use 💻</h1>
@@ -12,6 +12,6 @@
   
 <br>
 <h1 align="center">📞 Contact 📞</h1>
-  <h3>Discord:</span> <b>Owczar#0619</b></h3> 
+  <h3>Discord:</span> <b>Parvo#0619</b></h3> 
 </div>
 <br>
